@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1P3JoFyzC5QSHCKwmfKdW0kBqj2VZ-wBM/view?usp=drive
 Requirements: WINDOWS 10
 
 
-![SCREENSHOT](https://github.com/MBLiquid/MBL/blob/main/mbl_screen.PNG
+![SCREENSHOT](https://github.com/MBLiquid/MBL/blob/main/mbl_screen.PNG)
 
 INSTRUCTION:
 
