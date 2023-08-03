@@ -1,6 +1,13 @@
 # MONITOR_BINANCE_LIQUIDATIONS
 Real-time monitoring of futures liquidations on the Binance exchange.
 
+Telegram: https://t.me/MBLIQUID
+
+Instagram: https://instagram.com/monitor_binance_liquidations
+
+Download from GOOGLEDRIVE:
+https://drive.google.com/file/d/1P3JoFyzC5QSHCKwmfKdW0kBqj2VZ-wBM/view?usp=drive_link
+
 Requirements: WINDOWS 10
 
 INSTRUCTION:
@@ -15,11 +22,6 @@ You can enter both uppercase and lowercase letters.
 
 ⚫ Input the amount of liquidations in dollars in the filter under the "F.A.Q" button. If the "ALL" value in the liquidation line exceeds the entered value, the liquidation line will be highlighted in a different color.
 
-Telegram: https://t.me/MBLIQUID
 
-Instagram: https://instagram.com/monitor_binance_liquidations
-
-Download from GOOGLEDRIVE:
-https://drive.google.com/file/d/1P3JoFyzC5QSHCKwmfKdW0kBqj2VZ-wBM/view?usp=drive_link
 
 
