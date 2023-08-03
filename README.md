@@ -10,6 +10,9 @@ https://drive.google.com/file/d/1P3JoFyzC5QSHCKwmfKdW0kBqj2VZ-wBM/view?usp=drive
 
 Requirements: WINDOWS 10
 
+
+![SCREENSHOT](https://github.com/MBLiquid/MBL/blob/main/mbl_screen.PNG
+
 INSTRUCTION:
 
 ⚫ Use a FILTER to monitor the coins you need. Input currency pairs from one or more into the filter. To monitor several coins, in the filter field input them one by one with a comma separator.
