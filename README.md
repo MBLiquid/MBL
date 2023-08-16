@@ -5,6 +5,9 @@ Telegram: https://t.me/MBLIQUID
 
 Instagram: https://instagram.com/monitor_binance_liquidations
 
+DOWNLOAD FROM sourceforge.net ✅ MALWARE SCANNED ✅
+https://monitor-binance-liquidations.sourceforge.io
+
 Download from GOOGLEDRIVE:
 https://drive.google.com/file/d/1P3JoFyzC5QSHCKwmfKdW0kBqj2VZ-wBM/view?usp=drive_link
 
