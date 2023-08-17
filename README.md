@@ -1,6 +1,8 @@
 # MONITOR_BINANCE_LIQUIDATIONS
 Real-time monitoring of futures liquidations on the Binance exchange.
 
+Мониторинг ликвидаций фьючерсов на бирже Binance в режиме реального времени.
+
 Telegram: https://t.me/MBLIQUID
 
 Instagram: https://instagram.com/monitor_binance_liquidations
@@ -29,6 +31,20 @@ You can enter both uppercase and lowercase letters.
 ⚫ The data is saved to a file (binance_liqquidation.csv) located in the same folder as the program. All currency pairs are written to the file. Using a filter does not affect writing to a file.
 
 ⚫ Input the amount of liquidations in dollars in the filter under the "F.A.Q" button. If the "ALL" value in the liquidation line exceeds the entered value, the liquidation line will be highlighted in a different color.
+---------------------------------------------------
+
+
+ИНСТРУКЦИЯ:
+
+⚫ Используйте ФИЛЬТР, чтобы отслеживать нужные вам монеты. Введите валютные пары, одну или несколько, в фильтр. Чтобы отслеживать несколько монет, в поле фильтра введите их по очереди через запятую.
+
+НАПРИМЕР: BTCUSDT,ETHUSDT,CfxUSdt
+
+Вы можете вводить как прописные, так и строчные буквы.
+
+⚫ Данные сохраняются в файл (binance_liqquidation.csv), расположенный в той же папке, что и программа. Все валютные пары записываются в файл. Использование фильтра не влияет на запись в файл.
+
+⚫ Введите сумму ликвидаций в долларах в фильтр под кнопкой "F.A.Q". Если значение в $ в строке ликвидации превышает введенное значение, строка ликвидации будет выделена другим цветом.
 
 
 
