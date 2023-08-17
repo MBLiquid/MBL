@@ -1,14 +1,14 @@
-# MONITOR_BINANCE_LIQUIDATIONS
+# 🆓 MONITOR_BINANCE_LIQUIDATIONS
 
 🟢 Real-time monitoring of futures liquidations on the Binance exchange.
 
-Telegram: https://t.me/MBLIQUID
+📧 Telegram: https://t.me/MBLIQUID
 
-Instagram: https://instagram.com/monitor_binance_liquidations
+📧 Instagram: https://instagram.com/monitor_binance_liquidations
 
-DOWNLOAD FROM sourceforge.net ✅ MALWARE SCANNED ✅
+🔄 DOWNLOAD FROM sourceforge.net ✅ MALWARE SCANNED ✅
 
-https://monitor-binance-liquidations.sourceforge.io
+➡️ https://monitor-binance-liquidations.sourceforge.io
 
 Download from GOOGLEDRIVE:
 
